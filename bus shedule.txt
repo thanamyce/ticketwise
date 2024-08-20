@@ -1,0 +1,1549 @@
+PMPML - Schedules, Routes and Stops
+
+PMPML
+PMPML is a public transportation provider in Pune which operates Bus routes.
+
+The PMPML has 512 Bus routes in Pune with 7915 Bus stops.
+
+Their Bus routes cover an area from the S.T.Stand Lonavala stop to the Varvand Gaon stop and from the Junnar (Chhatrapati Shivaji Maharaj Putala) stop to the Sarola stop.
+
+PMPML line schedules (timetables, itineraries, service hours), and departure and arrival times to stations are updated in the app in real time.
+
+Pick a line to view updated schedules and stops
+Search for a line
+
+To see updated Bus times, schedules and stops please click on a route below
+Bus - 1
+1
+Pune Station - Shivajinagar
+Bus - 2
+2
+Swargate - Shivajinagar
+Bus - 2A
+2A
+Katraj - Shivajinagar
+Bus - 2B
+2B
+Swargate - Wakdewadi S.T.Stand - Swargate (Vartul)
+Bus - 3
+3
+Swargate - Pune Station - Swargate (Vartul)
+Bus - 4
+4
+Swargate - Shivajinagar
+Bus - 5
+5
+Swargate - Pune Station
+Bus - 6
+6
+Swargate - Pune Station
+Bus - 7
+7
+Deccan Gymkhana - Pulgate
+Bus - 8
+8
+Deccan Gymkhana - Pune Station
+Bus - 9
+9
+Deccan Gymkhana - Pune Station
+Bus - 10
+10
+Janata Vasahat (Aapla Chowk) - Shivajinagar
+Bus - 11
+11
+Marketyard - Pimple Gurav
+Bus - 11A
+11A
+Marketyard - Kasarwadi Railway Station
+Bus - 11K
+11K
+Katraj - Pimple Gurav
+Bus - 12
+12
+Upper Depot - Shivajinagar
+Bus - 13
+13
+Upper Depot - Savitribai Phule Pune Vidyapeeth
+Bus - 13
+13
+Upper Depot - Shivajinagar
+Bus - 13M
+13M
+Upper Depot - Shivajinagar (Ladies Special)
+Bus - 15
+15
+Bhekrainagar - D.S.K.Vishwa
+Bus - 17
+17
+Swargate - Narhegaon
+Bus - 19
+19
+Swargate - Yewalewadi
+Bus - 19A
+19A
+Swargate - Yewalewadi
+Bus - 20
+20
+Swargate - Vishrantwadi
+Bus - 20
+20
+Vishrantwadi - Sahakarnagar
+Bus - 21
+21
+Swargate - Medi Point
+Bus - 21
+21
+Swargate - Sangvi Gaon
+Bus - 24
+24
+Katraj - Samtanagar
+Bus - 24A
+24A
+Katraj - Lohgaon
+Bus - 24M
+24M
+Katraj - Samtanagar (Ladies Special)
+Bus - 26
+26
+Shivajinagar - Dhankawadi
+Bus - 28
+28
+Lake Town Society - Shivajinagar
+Bus - 29
+29
+Marketyard - Alandi
+Bus - 29
+29
+Swargate - Alandi
+Bus - 30
+30
+Marketyard - Ghotawade Phata
+Bus - 31
+31
+Taljai Pathar Dhankawadi - Pune Station
+Bus - 35
+35
+Manapa Bhavan - Mukai Chowk Kiwale Terminal
+Bus - 35A
+35A
+Balewadi Depot - Manapa Bhavan
+Bus - 35A
+35A
+Manapa Bhavan - Indira College Tathawade - Manapa Bhavan (Vartul)
+Bus - 36
+36
+Baner Depot - Chinchwad Gaon
+Bus - 36
+36
+Manapa Bhavan - Chinchwad Gaon
+Bus - 37
+37
+Na.Ta.Wadi - Sahakarnagar
+Bus - 38
+38
+Dhankawadi - Na.Ta.Wadi
+Bus - 39
+39
+Dhankawadi - Pune Station
+Bus - 41
+41
+Upper Depot - Sangvi Gaon
+Bus - 42
+42
+Katraj - Bhakti Shakti Terminal
+Bus - 43
+43
+Katraj - Bhakti Shakti Terminal
+Bus - 43A
+43A
+Baner Depot - Hinjawadi Maan Phase 3
+Bus - 43A
+43A
+Baner Depot - Katraj
+Bus - 43A
+43A
+Katraj - Hinjawadi Maan Phase 3
+Bus - 44
+44
+Akurdi Railway Station - Katraj
+Bus - 44
+44
+Katraj To Radha Chowk
+Bus - 44
+44
+Radha Chowk - Akurdi Railway Station
+Bus - 45
+45
+Katraj - Hinjawadi Maan Phase 3
+Bus - 45
+45
+Radha Chowk - Katraj
+Bus - 47
+47
+Swargate - Sanaswadi Nandoshi
+Bus - 50
+50
+Shanivarwada - Sinhgad Paytha
+Bus - 50
+50
+Swargate - Sinhgad Paytha
+Bus - 50A
+50A
+Deccan Gymkhana - Sinhgad Paytha
+Bus - 50K
+50K
+Aundh Gaon - Sinhgad Paytha
+Bus - 50N
+50N
+Bhakti Shakti Terminal - Sinhgad Paytha
+Bus - 50N
+50N
+Sinhgad Paytha - Swargate
+Bus - 51
+51
+Shivajinagar - D.S.K.Vishwa
+Bus - 51
+51
+Shivajinagar - Dhayareshwar Mandir
+Bus - 52
+52
+Swargate - Khanapur Manerwadi Phata
+Bus - 52A
+52A
+Swargate - Varasgaon
+Bus - 52B
+52B
+Marketyard - Khanapur Manerwadi Phata
+Bus - 52C
+52C
+Swargate - Osade Phata
+Bus - 52D
+52D
+Swargate - Ranjane Khamgaon
+Bus - 55
+55
+Suncity - Shanipar Bus Stand
+Bus - 55
+55
+Swargate - Suncity
+Bus - 57
+57
+Pune Station - Vadgaon Budruk
+Bus - 57
+57
+Pune Station - Venutai Chavan College
+Bus - 58
+58
+Shanipar Bus Stand - Gokhalenagar Police Line
+Bus - 59
+59
+Shanipar Bus Stand - Niljyoti Society
+Bus - 60
+60
+Swargate - Ghulenagar - Swargate (Vartul)
+Bus - 61
+61
+Katraj - Sarola
+Bus - 64
+64
+Bhekrainagar - N.D.A.Gate
+Bus - 64M
+64M
+Hadapsar Gadital - Ganpati Matha (Ladies Special)
+Bus - 65
+65
+Hadapsar Gadital - Uruli Kanchan Railway Station
+Bus - 65
+65
+Hadapsar Gadital - Yavat
+Bus - 65A
+65A
+Hadapsar Gadital - Uruli Kanchan
+Bus - 65A
+65A
+Hadapsar Gadital - Varvand Gaon
+Bus - 66
+66
+Thakarwadi - Deccan Gymkhana
+Bus - 66
+66
+Thakarwadi - Marketyard
+Bus - 67
+67
+Hadapsar Gadital - Mhatobachi Alandi
+Bus - 67
+67
+Hadapsar Gadital - Prayagdham
+Bus - 67
+67
+Hadapsar Gadital - Uruli Kanchan
+Bus - 67
+67
+Hadapsar Gadital - Uruli Kanchan Railway Station
+Bus - 68
+68
+Upper Depot - Sutardara
+Bus - 69
+69
+Marketyard - Ghotawade Gaon
+Bus - 69
+69
+Marketyard - Mugawade
+Bus - 70
+70
+Marketyard - Mulshi Gaon
+Bus - 71
+71
+Kothrud Depot - Sukhsagarnagar - Kothrud Depot (Vartul)
+Bus - 72
+72
+Sukhsagarnagar - Ganpati Matha
+Bus - 72
+72
+Sukhsagarnagar - N.D.A.Gate
+Bus - 73
+73
+Hadapsar Gadital - Khamgaon Gadamodi
+Bus - 73
+73
+Khamgaon Gadamodi - Uruli Kanchan
+Bus - 74
+74
+Dange Chowk - Ghotawade Phata
+Bus - 74
+74
+Radha Chowk - Dange Chowk
+Bus - 75
+75
+Deccan Gymkhana - Vidyanagar
+Bus - 76
+76
+Galinde Path - Manapa Congress Bhavan
+Bus - 77
+77
+Galinde Path - Hinjawadi Maan Phase 3
+Bus - 77
+77
+Radha Chowk - Galinde Path
+Bus - 77
+77
+Radha Chowk - Hinjawadi Maan Phase 3
+Bus - 78
+78
+Marketyard - N.D.A.Gate
+Bus - 80
+80
+Manapa Bhavan - Aditya Garden City - Manapa Bhavan (Vartul)
+Bus - 81
+81
+Kumbre Park - Pune Station
+Bus - 82
+82
+N.D.A.Gate - Ma.Na.Pa.Bhavan - N.D.A.Gate (Vartul)
+Bus - 83
+83
+N.D.A.Gate - Alandi
+Bus - 84
+84
+Deccan Gymkhana - Kondhur Phata
+Bus - 84A
+84A
+Deccan Gymkhana - Sangrun
+Bus - 85
+85
+Kothrud Stand - Mohkarwadi
+Bus - 85
+85
+Mohkarwadi - Manapa Bhavan
+Bus - 86
+86
+Pune Station - Paud S.T.Stand
+Bus - 87
+87
+Sutarwadi - Deccan Gymkhana
+Bus - 87A
+87A
+Chande Gaon (Jilha Parishad School) - Deccan Gymkhana
+Bus - 87A
+87A
+Deccan Gymkhana To Radha Chowk
+Bus - 87A
+87A
+Symbiosis Nursing Hostel (Susgaon) - Deccan Gymkhana
+Bus - 87A
+87A
+Symbiosis Nursing Hostel (Susgaon) To Radha Chowk
+Bus - 89
+89
+Swargate - Niljyoti Society
+Bus - 90
+90
+Katraj - Gokhalenagar Police Line
+Bus - 91
+91
+Ishan Nagari (Warje) - Manapa Congress Bhavan
+Bus - 92
+92
+Kothrud Depot - Venutai Chavan College
+Bus - 94
+94
+Kothrud Depot - Pune Station
+Bus - 94M
+94M
+Kothrud Depot - Pune Station (Ladies Special)
+Bus - 95
+95
+Deccan Gymkhana - P.V.P.I.T.College (Bavdhan)
+Bus - 95
+95
+Kothrud Depot - Deccan Gymkhana
+Bus - 97
+97
+Ganpati Matha - Sahakarnagar
+Bus - 98
+98
+Ganpati Matha - Kesnand Phata Wagholi
+Bus - 98
+98
+Ganpati Matha - Pune Station
+Bus - 98
+98
+Kesnand Phata Wagholi - Manapa Dengle Pul
+Bus - 99
+99
+Kothrud Depot - Vishrantwadi
+Bus - 100
+100
+Baner Depot To Hinjawadi Maan Phase 3
+Bus - 100
+100
+Manapa Bhavan - Blue Ridge Society Hinjawadi
+Bus - 100
+100
+Manapa Bhavan - Hinjawadi Maan Phase 3
+Bus - 103
+103
+Katraj - Kothrud Depot
+Bus - 103
+103
+Katraj - M.I.T.College
+Bus - 103M
+103M
+Katraj - Kothrud Depot (Ladies Special)
+Bus - 104
+104
+Shivajinagar - D.S.K.Vishwa
+Bus - 107
+107
+Ganpati Matha - Pimple Gurav
+Bus - 108
+108
+Sutardara - Pune Station
+Bus - 109
+109
+Kothrud Depot - Manapa Bhavan
+Bus - 109
+109
+Manapa Bhavan To Manapa Bhavan (Ring Route)
+Bus - 110
+110
+Kothrud Depot - Manapa Bhavan
+Bus - 110
+110
+Manapa Bhavan To Manapa Bhavan (Ring Route)
+Bus - 111
+111
+Bhekrainagar To Bhekrainagar Via Swargate, Manapa Bhavan, Pune Station (Vartul)
+Bus - 111M
+111M
+Bhekrainagar - Manapa Bhavan (Ladies Special)
+Bus - 112
+112
+Bhekrainagar To Bhekrainagar Via Pune Station, Manapa Bhavan, Swargate (Vartul)
+Bus - 113
+113
+Appa Balwant Chowk - Sangvi Gaon
+Bus - 113A
+113A
+Appa Balwant Chowk - Pimple Gurav
+Bus - 114
+114
+Mhalunge Gaon (Padale Chowk) - Manapa Bhavan
+Bus - 115
+115
+Pune Station - Hinjawadi Maan Phase 3
+Bus - 117
+117
+Swargate - Dhayareshwar Mandir
+Bus - 117
+117
+Swargate - Jadhavnagar Dhayari
+Bus - 117
+117
+Swargate - Raikar Mala Dhayari
+Bus - 117M
+117M
+Swargate - Dhayareshwar Mandir (Ladies Special)
+Bus - 118
+118
+Swargate - Charwad Wasti
+Bus - 118
+118
+Swargate - Nanded Gaon
+Bus - 118
+118
+Swargate - Vadgaon Budruk
+Bus - 118
+118
+Swargate - Venutai Chavan College
+Bus - 118A
+118A
+Swargate - Suncity
+Bus - 119
+119
+Manapa Bhavan - Alandi
+Bus - 119A
+119A
+Charholi Gaon - Manapa Bhavan
+Bus - 120
+120
+Bhosari Terminal - Mhalunge Indoorance Company Chakan
+Bus - 121
+121
+Bhosari Terminal - Manapa Bhavan
+Bus - 122
+122
+Mukai Chowk Kiwale Terminal - Manapa Bhavan
+Bus - 123
+123
+Manapa Bhavan - Bhakti Shakti Terminal
+Bus - 125
+125
+Bopkhel - Khadki Bazar Corner
+Bus - 125
+125
+Bopkhel - Sangvi Gaon
+Bus - 125
+125
+Manapa Bhavan - Bopkhel
+Bus - 126
+126
+Pimple Nilakh - Vishrantwadi
+Bus - 126B
+126B
+Khadki Bazar - Kamal Park Dhanori
+Bus - 130
+130
+Katraj - Narhegaon
+Bus - 130
+130
+Narhegaon - Swargate
+Bus - 131
+131
+Golegaon Gram Panchayat - Manapa Dengle Pul
+Bus - 132
+132
+Manapa Dengle Pul - Shubham Society
+Bus - 133
+133
+Manapa Dengle Pul - Anand Park
+Bus - 133A
+133A
+Manapa Dengle Pul - Sainathnagar Columbia Hospital
+Bus - 135
+135
+Manapa Bhavan - Ranjangaon Sandas
+Bus - 136
+136
+Kesnand Phata Wagholi - Vadegaon
+Bus - 137
+137
+Manapa Bhavan - Pargaon Salu Malu
+Bus - 137
+137
+Pargaon Salu Malu - Kesnand Phata Wagholi
+Bus - 139
+139
+Bhakti Shakti Terminal - Shewalewadi
+Bus - 139A
+139A
+Bhekrainagar - Bhakti Shakti Terminal
+Bus - 140
+140
+Upper Depot - Pune Station
+Bus - 140
+140
+Upper Depot - Sangamwadi
+Bus - 140A
+140A
+Katraj - Pune Station
+Bus - 141
+141
+Kumar Society Kondhwa - Pune Station (Jayprakash Stand)
+Bus - 142
+142
+Ghotawade Phata - Pune Station Depot
+Bus - 143
+143
+Galinde Path - Pune Station
+Bus - 144
+144
+N.D.A.Gate - Pune Station
+Bus - 144A
+144A
+Aditya Garden City (Dnyaneshwari Udyan) - Pune Station
+Bus - 144K
+144K
+Gujarat Colony - Pune Station
+Bus - 145
+145
+Pune Station Depot - Sutarwadi Depot
+Bus - 146
+146
+Pune Station - Gokhalenagar Police Line
+Bus - 147
+147
+Nhavi Sandas - Manapa Bhavan
+Bus - 148
+148
+Shewalewadi - Pimple Gurav
+Bus - 148A
+148A
+Bhekrainagar - Bhosari Terminal Via Kasarwadi Station
+Bus - 148A
+148A
+Bhosari Terminal - Bhekrainagar
+Bus - 149
+149
+Hadapsar Gadital - Bhakti Shakti Terminal
+Bus - 151
+151
+Pune Station - Alandi
+Bus - 152
+152
+Lohgaon - Manapa Daphale Garage
+Bus - 152A
+152A
+Pride World City Lohgaon To Manapa Daphale Garage
+Bus - 152A
+152A
+Vishrantwadi - Pride World City Lohgaon
+Bus - 153
+153
+Alandi - Kharadi Gaon
+Bus - 153
+153
+Bhosari Gaon - Alandi
+Bus - 154
+154
+Diamond Water Park Lohgaon - Pune Station
+Bus - 155
+155
+Diamond Water Park Lohgaon - Pune Station
+Bus - 156
+156
+Hadapsar Gadital - Hadapsar Railway Station
+Bus - 156
+156
+Hadapsar Gadital - Kharadi Bypass Corner
+Bus - 158
+158
+Lohgaon - Manapa Dengle Pul
+Bus - 158
+158
+Manapa Dengle Pul - Diamond Water Park Lohgaon
+Bus - 158
+158
+Manapa Dengle Pul - Pride World City Lohgaon
+Bus - 158M
+158M
+Manapa Bhavan - Lohgaon (Ladies Special)
+Bus - 159
+159
+Manapa Bhavan - Koregaon Bhima
+Bus - 159
+159
+Manapa Bhavan - Talegaon Dhamdhere Bazar
+Bus - 159B
+159B
+Loni Dhamani - Shikrapur S.T. Stand
+Bus - 159B
+159B
+Manapa Bhavan - Loni Dhamani
+Bus - 160
+160
+Shanivarwada - Manjari Budruk
+Bus - 161
+161
+Kesnand Phata Wagholi - Karegaon Jilha Parishad School
+Bus - 161
+161
+Kesnand Phata Wagholi - Shirur Shashkiya Vishramgruha
+Bus - 161
+161
+Shirur Shashkiya Vishramgruha - Karegaon S.N.Chowk
+Bus - 162
+162
+Kendur Gaon - Manapa Bhavan
+Bus - 163
+163
+Pune Station - Dhole Patil College Kharadi
+Bus - 164
+164
+Manapa Bhavan - Kesnand Phata Wagholi
+Bus - 164
+164
+Manapa Bhavan - Nhavare Gaon
+Bus - 164
+164
+Nhavare Gaon - Shikrapur S.T.Stand
+Bus - 165
+165
+Manapa Dengle Pul - Vadgaon Sheri
+Bus - 166
+166
+Pune Station - S.R.A.Colony Vimannagar
+Bus - 166
+166
+Pune Station - Viman Nagar
+Bus - 167
+167
+Bhekrainagar - Kesnand Phata Wagholi
+Bus - 167M
+167M
+Hadapsar Gadital - Kesnand Phata Wagholi (Ladies Special)
+Bus - 168
+168
+Shanivarwada - Keshavnagar
+Bus - 169
+169
+Shanivarwada - Keshavnagar
+Bus - 169M
+169M
+Shanivarwada - Keshavnagar (Ladies Special)
+Bus - 170
+170
+Pune Station - Kondhwa Khurd - Pune Station (Vartul)
+Bus - 170
+170
+Pune Station Depot - Defence Colony Marketyard
+Bus - 170
+170
+Pune Station Depot - Kondhwa Budruk
+Bus - 170
+170
+Pune Station Depot - Yewalewadi
+Bus - 170M
+170M
+Pune Station - Kondhwa Khurd - Pune Station (Vartul) (Ladies Special)
+Bus - 172
+172
+Yewalewadi - Pune Station
+Bus - 174
+174
+Pune Station - N.D.A.Gate
+Bus - 175
+175
+Hadapsar Gadital - Shanivarwada
+Bus - 177
+177
+Pune Station - Lodha Towers N.I.B.M.
+Bus - 177
+177
+Pune Station - Salunkhe Vihar
+Bus - 178
+178
+Swargate - S.R.P.F.Camp Vanwadi
+Bus - 179
+179
+Lohgaon - Hadapsar Gadital
+Bus - 179
+179
+Pune Station - Lohgaon
+Bus - 180
+180
+Bhekrainagar - Na.Ta.Wadi
+Bus - 181
+181
+Na.Ta.Wadi - Kondhwa Budruk
+Bus - 181
+181
+Na.Ta.Wadi - Kondhwa Khurd
+Bus - 182
+182
+Shewalewadi - Na.Ta.Wadi
+Bus - 183
+183
+Hadapsar Gadital - Kesnand Phata Wagholi
+Bus - 183
+183
+Hadapsar Gadital - Kolwadi
+Bus - 183
+183
+Kesnand Phata Wagholi - Theur Phata
+Bus - 184
+184
+Hadapsar Gadital - Ramdara Mandir
+Bus - 185
+185
+Hadapsar Gadital - Kesnand Phata Wagholi
+Bus - 186
+186
+Hadapsar Gadital - J.S.P.M.College
+Bus - 187
+187
+Shewalewadi - Pune Station
+Bus - 188
+188
+Hadapsar Gadital - Katraj
+Bus - 189
+189
+Hadapsar Gadital - Dhangar Wasti Devachi Uruli
+Bus - 190B
+190B
+Hadapsar Gadital - Wadki Gaon
+Bus - 192
+192
+Hadapsar Gadital - Vadachiwadi
+Bus - 195
+195
+Hadapsar Gadital - Holkarwadi
+Bus - 196
+196
+Swargate - Jagdamba Bhavan Pisoli
+Bus - 197
+197
+Shewalewadi - Kothrud Depot
+Bus - 199
+199
+Shewalewadi - Kothrud Depot
+Bus - 200
+200
+Shewalewadi - Alandi
+Bus - 201
+201
+Bhekrainagar - Alandi
+Bus - 202
+202
+Shewalewadi - Ganpati Matha
+Bus - 203
+203
+Pune Station - Shewalewadi
+Bus - 204
+204
+Bhekrainagar - Chinchwad Gaon
+Bus - 207
+207
+Hadapsar Gadital - Saswad
+Bus - 207
+207
+Swargate - Saswad
+Bus - 207A
+207A
+Hadapsar Gadital - Saswad
+Bus - 207A
+207A
+Saswad - Manapa Dengle Pul
+Bus - 207N
+207N
+Hadapsar Gadital - Narayanpur
+Bus - 207N
+207N
+Narayanpur - Saswad
+Bus - 208
+208
+Bhekrainagar - Hinjawadi Maan Phase 3
+Bus - 209
+209
+Katraj - Saswad
+Bus - 209
+209
+Katraj - Saswad Via Garade
+Bus - 209A
+209A
+Swargate - Saswad
+Bus - 209A
+209A
+Swargate - Yewalewadi
+Bus - 210
+210
+Hadapsar Gadital - Jejuri M.I.D.C.
+Bus - 211
+211
+Hadapsar Gadital To Saswad
+Bus - 211
+211
+Saswad - Uruli Kanchan
+Bus - 211
+211
+Uruli Kanchan To Hadapsar Gadital
+Bus - 212
+212
+Hadapsar Gadital - Morgaon S.T.Stand
+Bus - 214
+214
+Katraj - Sinhgad College
+Bus - 215
+215
+Ambegaon Pathar Chintamani Dnyanpeeth - Swargate
+Bus - 216
+216
+Bharati Vidyapeeth - Savitribai Phule Pune Vidyapeeth Via Deccan Gymkhana
+Bus - 216
+216
+Bharati Vidyapeeth - Savitribai Phule Pune Vidyapeeth Via Nal Stop
+Bus - 216
+216
+Bharati Vidyapeeth - Shivajinagar
+Bus - 220
+220
+Hadapsar Gadital To Yavat
+Bus - 220
+220
+Saswad To Hadapsar Gadital
+Bus - 220
+220
+Yavat - Saswad
+Bus - 225
+225
+Hinjawadi Maan Phase 3 To Pune Station
+Bus - 225
+225
+Kharadi Gaon - Hinjawadi Maan Phase 3
+Bus - 225
+225
+Pune Station - Kharadi Gaon
+Bus - 226
+226
+Deccan Gymkhana - Kharawade Mhasoba Mandir
+Bus - 226
+226
+Kharawade Mhasoba Mandir To Kothrud Depot
+Bus - 227
+227
+Marketyard - Marnewadi
+Bus - 227A
+227A
+Marketyard - Kharawade Mhasoba Mandir
+Bus - 227A
+227A
+Marketyard - Lavharde Gaon (Temghar Dam)
+Bus - 228
+228
+Balewadi Depot - Katraj
+Bus - 228
+228
+Balewadi Depot - Vadgaon Maval
+Bus - 228
+228
+Katraj - Vadgaon Maval
+Bus - 231
+231
+Kashing Gaon Kaman - Paud S.T.Stand
+Bus - 231
+231
+Marketyard - Kashing Gaon
+Bus - 232
+232
+Marketyard - Belawade Gaon
+Bus - 233
+233
+Marketyard - Paud Shashkiya Vishramgruha
+Bus - 233A
+233A
+Marketyard - Kolwan Gaon
+Bus - 233B
+233B
+Marketyard - Bhadas Gaon
+Bus - 234
+234
+Manapa Dengle Pul - Kharadi Gaon
+Bus - 235
+235
+Katraj - Kharadi Gaon
+Bus - 236
+236
+Kesnand Phata Wagholi - Katraj
+Bus - 256
+256
+Balewadi Depot - Manapa Bhavan
+Bus - 256
+256
+Balewadi Depot - Marketyard Via Mandai
+Bus - 257
+257
+Alandi - Markal Gaon Panyachi Taki
+Bus - 257A
+257A
+Kesnand Phata - Tulapur Indian Oil Petrol Pump
+Bus - 258
+258
+Neelanchal Society Sus Gaon - Manapa Bhavan
+Bus - 259
+259
+Manapa Bhavan - Mhalunge Gaon (Padale Chowk)
+Bus - 259
+259
+Manapa Bhavan - Someshwarwadi
+Bus - 262
+262
+Manapa Bhavan - Dehugaon Kridangan
+Bus - 262
+262
+Pune Station To Dehugaon Kridangan
+Bus - 264
+264
+Pabal Gaon - Bhosari Terminal
+Bus - 276
+276
+Chinchwad Gaon - N.D.A.Gate
+Bus - 276
+276
+Ganpati Matha - Chinchwad Gaon
+Bus - 276
+276
+Ganpati Matha - Masulkar Colony
+Bus - 277
+277
+Bhosari Terminal - Kothrud Depot
+Bus - 279
+279
+Marketyard - Katarkhadak
+Bus - 281
+281
+Ganpati Matha - Bhakti Shakti Terminal
+Bus - 282
+282
+Ganpati Matha - Bhosari Terminal
+Bus - 283
+283
+Kumbre Park - Pune Station
+Bus - 290
+290
+Jambhulwadi - Swargate
+Bus - 290
+290
+Katraj - Jambhulwadi
+Bus - 291
+291
+Hadapsar Gadital - Katraj
+Bus - 292
+292
+Katraj - Avsarwadi
+Bus - 292
+292
+Katraj - Kalyan
+Bus - 292
+292
+Katraj - Kondhanpur
+Bus - 292
+292
+Katraj - Kondhanpur Via Arvi
+Bus - 292
+292
+Katraj - Kusgaon
+Bus - 293
+293
+Katraj - Saswad
+Bus - 294
+294
+Katraj - Narhe - Swargate - Katraj (Vartul)
+Bus - 295
+295
+Katraj - Swargate - Narhe - Katraj (Vartul)
+Bus - 296
+296
+Katraj - Pabe Gaon
+Bus - 296A
+296A
+Katraj - Vanganiwadi
+Bus - 297
+297
+Shivajinagar - Rajas Society
+Bus - 298
+298
+Katraj - Chinchwad Gaon
+Bus - 299
+299
+Bhosari Terminal - Katraj
+Bus - 301
+301
+Katraj - Shewalewadi
+Bus - 301A
+301A
+Bhekrainagar - Katraj
+Bus - 301M
+301M
+Swargate - Hadapsar Gadital (Ladies Special)
+Bus - 302
+302
+Bhosari Gavhane Wasti - Pimpri Gaon
+Bus - 302A
+302A
+Alandi - Pimpri Gaon
+Bus - 302B
+302B
+Pimpri Gaon - Bopkhel
+Bus - 303
+303
+Nigdi - Akurdi Railway Station
+Bus - 303A
+303A
+Nigdi - Gahunje Gaon
+Bus - 304
+304
+Bhosari Gavhane Wasti - Chinchwad Gaon
+Bus - 305
+305
+Nigdi - Vadgaon Maval
+Bus - 305A
+305A
+Nigdi - Greenbase Park Navlakh Umbre
+Bus - 305B
+305B
+Nigdi - Mindewadi Navlakh Umbre
+Bus - 306
+306
+Dange Chowk - Hinjawadi Megapolis Phase 3
+Bus - 306
+306
+Radha Chowk - Dange Chowk
+Bus - 306A
+306A
+Dange Chowk - Hinjawadi Hills Society Dattawadi
+Bus - 307
+307
+Balewadi Depot - Chinchwad Gaon
+Bus - 307
+307
+Chinchwad Gaon - Iskcon Mandir Shinde Wasti Ravet
+Bus - 308
+308
+Nigdi - Gharkul Vasahat
+Bus - 309
+309
+Alandi - Dehu Gaon
+Bus - 309
+309
+Bhosari Gaon - Alandi
+Bus - 311
+311
+Pune Station Depot - Pimpri Gaon
+Bus - 312
+312
+Pune Station Depot - Chinchwad Gaon Via Bhatnagar
+Bus - 312
+312
+Pune Station Depot - Chinchwad Gaon Via Y.C.M.Hospital
+Bus - 313
+313
+Balewadi Depot - Chinchwad Gaon
+Bus - 313
+313
+Chinchwad Gaon - Chandkhed
+Bus - 313
+313
+Chinchwad Gaon - Kasarsai Karkhana
+Bus - 314
+314
+Nigdi - Dwarka City Mhalunge
+Bus - 315
+315
+Pune Station - Bhosari Gaon
+Bus - 316
+316
+Balewadi Depot - Chinchwad Gaon
+Bus - 316
+316
+Chinchwad Gaon - Katarkhadak
+Bus - 317
+317
+Pune Station Depot - Sambhajinagar
+Bus - 320
+320
+Chinchwad Gaon - Hinjawadi Maan Phase 3
+Bus - 321
+321
+Hinjawadi Megapolis Phase 3 - Eternity Company
+Bus - 322
+322
+Akurdi Railway Station - Manapa Bhavan
+Bus - 322A
+322A
+Akurdi Railway Station - Manapa Bhavan
+Bus - 322M
+322M
+Akurdi Railway Station - Manapa Bhavan (Ladies Special)
+Bus - 323
+323
+Chikhali Nageshwar Vidyalaya - Manapa Bhavan
+Bus - 323A
+323A
+Gharkul Vasahat - Manapa Bhavan
+Bus - 324
+324
+Bhosari Terminal - Hinjawadi Maan Phase 3
+Bus - 325
+325
+Pune Station - Pimple Saudagar
+Bus - 326
+326
+Pimpri Gaon - Chikhali Nageshwar Vidyalaya Via Jadhavwadi
+Bus - 326
+326
+Pimpri Gaon - Chikhali Nageshwar Vidyalaya Via Kudalwadi
+Bus - 327
+327
+Alandi - Hinjawadi Maan Phase 3
+Bus - 327
+327
+Bhosari Gaon - Alandi
+Bus - 327
+327
+Bhosari Gaon - Hinjawadi Maan Phase 3
+Bus - 329
+329
+Nigdi - Dehugaon Kridangan
+Bus - 330
+330
+Alandi - Dehu Gaon
+Bus - 330
+330
+Alandi - Maruti Mandir Talegaon Dabhade
+Bus - 330
+330
+Bhosari Gaon - Alandi
+Bus - 331
+331
+Bhosari Gavhane Wasti - Pimple Saudagar
+Bus - 331A
+331A
+Charholi Gaon - Pimple Saudagar
+Bus - 331A
+331A
+Pimpri Depot - Charholi Gaon
+Bus - 331B
+331B
+Pimple Saudagar - Charholi Gaon
+Bus - 331B
+331B
+Pimpri Depot - Pimple Saudagar
+Bus - 332
+332
+Nigdi - Jambe Gaon
+Bus - 333
+333
+Pune Station - Hinjawadi Maan Phase 3
+Bus - 334
+334
+Gharkul Vasahat - Pimpri Gaon
+Bus - 335
+335
+Dange Chowk - Sangawade
+Bus - 336
+336
+Kesnand Phata Wagholi - Bhakti Shakti Terminal
+Bus - 337
+337
+Balewadi Depot - Chinchwad Gaon
+Bus - 337
+337
+Chinchwad Gaon - Kharadi Gaon
+Bus - 339
+339
+Santnagar R.T.O.Office - Katraj
+Bus - 340
+340
+Nigdi - Alandi
+Bus - 341
+341
+Nigdi - Urse Gaon Vasudev Ashram
+Bus - 342
+342
+Nigdi - Urse Gaon Vasudev Ashram
+Bus - 343
+343
+Bhosari Terminal - Maruti Mandir Talegaon Dabhade
+Bus - 343
+343
+Bhosari Terminal To Samarth Vidyalaya Talegaon Dabhade
+Bus - 343
+343
+Maruti Mandir Talegaon Dabhade - Chakan Ambethan Chowk
+Bus - 343
+343
+Samarth Vidyalaya Talegaon Dabhade To Chakan Ambethan Chowk
+Bus - 344
+344
+Baner Depot - Alandi
+Bus - 345
+345
+Baner Depot - Hinjawadi Maan Phase 3
+Bus - 345
+345
+Hinjawadi Maan Phase 3 - Bhosari Terminal
+Bus - 346
+346
+Kesnand Phata Wagholi - Bhosari Gaon
+Bus - 347
+347
+Appa Balwant Chowk - Sangvi Gaon
+Bus - 347
+347
+Sangvi Gaon - Alandi
+Bus - 348
+348
+Bhakti Shakti Terminal - Pune Station
+Bus - 350
+350
+Nigdi - Dehugaon Kridangan
+Bus - 351
+351
+Alandi - Jambe Gaon
+Bus - 351
+351
+Bhosari Gaon - Alandi
+Bus - 351
+351
+Bhosari Gaon - Jambe Gaon
+Bus - 353
+353
+Chakan S.T.Stand - Shikrapur Phata
+Bus - 353
+353
+Kesnand Phata Wagholi - Chakan S.T.Stand
+Bus - 354
+354
+Pimpri Gaon - Marketyard
+Bus - 355
+355
+Balewadi Depot - Chikhali Nageshwar Vidyalaya
+Bus - 355
+355
+Chikhali Nageshwar Vidyalaya - Thergaon Phata Dange Chowk
+Bus - 355A
+355A
+Radha Chowk - Chikhali Nageshwar Vidyalaya
+Bus - 355M
+355M
+Chikhali Nageshwar Vidyalaya - Thergaon Phata Dange Chowk (Ladies Special)
+Bus - 356
+356
+Bhosari Terminal - P.M.A.Y.Homes Borhadewadi
+Bus - 357
+357
+Pune Station - Bhosari Terminal
+Bus - 358
+358
+Bhosari Terminal - Chakan Ambethan Chowk
+Bus - 358
+358
+Bhosari Terminal - Rajgurunagar Law College
+Bus - 358A
+358A
+Bhosari Terminal - Vasuli
+Bus - 359A
+359A
+Pimple Gurav - Rajgurunagar Law College
+Bus - 360
+360
+Mhalunge Gaon - Alandi
+Bus - 361
+361
+Bhosari Gaon - Alandi
+Bus - 362
+362
+Y.C.M.Hospital - Alandi
+Bus - 363
+363
+Nigdi - Dattanagar Kiwale
+Bus - 363
+363
+Nigdi - Gaikwad Nagar Punawale
+Bus - 364
+364
+Alandi - Chakan Ambethan Chowk
+Bus - 364
+364
+Bhosari Gaon - Alandi
+Bus - 366
+366
+Bhakti Shakti Terminal - Pune Station Depot
+Bus - 367
+367
+Bhosari Gavhane Wasti - Nigdi
+Bus - 367A
+367A
+Bhosari Gavhane Wasti - Akurdi Railway Station
+Bus - 367M
+367M
+Nigdi - Bhosari Gavhane Wasti (Ladies Special)
+Bus - 368
+368
+Nigdi - Lonavala Railway Station
+Bus - 369
+369
+Nigdi - Vasuli
+Bus - 370
+370
+Bhosari Terminal - Davadi Gaon
+Bus - 371
+371
+Nigdi - Takave Khandoba Chowk
+Bus - 372
+372
+Balewadi Depot - Hinjawadi Megapolis Phase 3
+Bus - 372
+372
+Bhakti Shakti Terminal - Hinjawadi Megapolis Phase 3
+Bus - 372M
+372M
+Bhakti Shakti Terminal - Hinjawadi Megapolis Phase 3 (Ladies Special)
+Bus - 373
+373
+Hinjawadi Maan Phase 3 To Hinjawadi Maan Phase 3 (Vartul)
+Bus - 373
+373
+Radha Chowk - Hinjawadi Maan Phase 3
+Bus - 374
+374
+Nigdi - Sainagar Mamurdi (Veerbaba Chowk)
+Bus - 374A
+374A
+Nigdi - Gahunje Gaon
+Bus - 376
+376
+Pimpri Gaon - Manapa Bhavan
+Bus - 376A
+376A
+Masulkar Colony - Pune Station
+Bus - 380
+380
+Bhosari Terminal - Hinjawadi Maan Phase 3
+Bus - 381
+381
+Hinjawadi Megapolis Phase 3 - Chikhali Nageshwar Vidyalaya
+Bus - 381
+381
+Radha Chowk - Chikhali Nageshwar Vidyalaya
+Bus - AP2
+AP2
+Upper Depot - Katraj
+Bus - B1
+B1
+Bhosari Gaon - Dighi Gaon
+Bus - B2
+B2
+Alandi - Charholi Gaon
+Bus - H3
+H3
+Hadapsar Gadital - Saswad Road Railway Station
+Bus - H6
+H6
+Hadapsar Gadital - Mohammadwadi Gaon
+Bus - H8
+H8
+Hadapsar Gadital - Phursungi
+Bus - H9
+H9
+Hadapsar Gadital - Gopalpatti (Manjari Road)
+Bus - H11
+H11
+Hadapsar Gadital - Adarshnagar J.S.P.M.College
+Bus - H11
+H11
+Hadapsar Gadital - Sanket Vihar
+Bus - K7
+K7
+Dangat Estate To Kothrud Depot
+Bus - K7
+K7
+Deccan Gymkhana - Dangat Estate
+Bus - K7
+K7
+Kothrud Stand To Dangat Estate
+Bus - K11
+K11
+Katraj - Jambhulwadi
+Bus - K11
+K11
+Katraj - Kolewadi
+Bus - K12
+K12
+Katraj - Abhinav College Narhe
+Bus - K12
+K12
+Katraj - Narhegaon
+Bus - K14
+K14
+Katraj - Gujarwadi
+Bus - K16
+K16
+Katraj - Yewalewadi
+Bus - K18
+K18
+Katraj - Waghjainagar
+Bus - K21
+K21
+Vanaj Company To Vanaj Company Via L.M.D.Chowk, Bavdhan (Vartul)
+Bus - METRO2
+METRO2
+Ganpati Matha - Deccan Gymkhana
+Bus - METRO13
+METRO13
+Civil Court Metro Station - Upper Depot
+Bus - METRO17
+METRO17
+Hadapsar Gadital - Civil Court Metro Station
+Bus - METRO17
+METRO17
+Pune Station - Hadapsar Gadital
+Bus - METRO19
+METRO19
+Lohgaon Airport - Ramwadi
+Bus - METRO31
+METRO31
+Pimpri Metro Station - Kalewadi Phata
+Bus - METRO32
+METRO32
+Bhakti Shakti Terminal - Nashik Phata
+Bus - METRO37
+METRO37
+Pimpri Metro Station - Akurdi Railway Station
+Bus - METRO40
+METRO40
+Thergaon Phata Dange Chowk To Thergaon Phata Dange Chowk (Vartul)
+Bus - METRO41
+METRO41
+Thergaon Phata Dange Chowk To Thergaon Phata Dange Chowk (Vartul)
+Bus - N4A
+N4A
+Deccan Gymkhana - Niljyoti Society
+Bus - N4A
+N4A
+Deccan Gymkhana - Savitribai Phule Pune Vidyapeeth
+Bus - N14
+N14
+Akurdi Railway Station - Chinchwad Gaon
+Bus - N15
+N15
+Nigdi - Rupeenagar
+Bus - N16
+N16
+Akurdi Khandoba Maal Chowk - Chikhali Nageshwar Vidyalaya
+Bus - SHATAL 1 - Nigdi - Shirgaon Sai Baba Mandir	Nigdi - Shirgaon Sai Baba Mandir
+Bus - P12
+P12
+Pimpri Road - Kalewadi Phata
+Bus - P13
+P13
+Chinchwad Gaon - Walhekarwadi
+Bus - S9
+S9
+Swargate - Sahakarnagar
+Bus - SPL
+SPL
+Bhosari Terminal - Junnar (Chhatrapati Shivaji Maharaj Putala)
+Bus - Y18
+Y18
+Pimple Gurav - Narayanpur

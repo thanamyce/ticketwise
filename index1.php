@@ -1,0 +1,235 @@
+
+<?php
+session_start();
+if(isset($_POST['pass']))
+{
+if(empty($_SESSION['login']))
+{
+ header('Location:log.php');
+ }
+ else{
+    header('Location:pass.php');
+ }
+}
+if(isset($_POST['ticket']))
+{
+if(empty($_SESSION['login']))
+{
+ header('Location:log.php');
+ }
+ else{
+    header('Location:ticketm.php');
+ }
+}
+if(empty($_SESSION['login']))
+{
+    echo "
+    <button class='btn1' style='position:absolute; top:5.1%; left: 83.5%; box-shadow: 3px 3px 3px black; z-index: 1;' onclick='log()'>Log-in</button>";
+}
+else{
+    $con = mysqli_connect("localhost","root","","project");
+    $nm = mysqli_query($con,"SELECT name from active");
+    $name = mysqli_fetch_row($nm);
+    echo "<span style='border: 2.5px solid white; border-radius: 5px; position:absolute; top:2%; left: 85%; z-index: 1; padding: 5px; padding-right: 20px; padding-left: 20px;'>
+    <center><img src='profile.png' height=50px; width=50px; style='border-radius:50px; cursor: pointer;' onclick='prof()'></center>
+    <center><span style='font-family: calibri; color: white; font-size: 20px;'>$name[0]</span></center>
+    <center><button onclick='lout()' style='background-color: red; font-family: dubai; font-size: 13px; padding: 1px; color: white; border-radius: 15px; cursor:pointer;'>LOGOUT</button></center>
+    </span>
+    ";
+    mysqli_close($con);
+}
+echo "
+<script>
+function log(){
+    window.location.href='log.php';
+}
+function lout(){
+ window.location.href='louttest.php';
+}
+function prof(){
+    window.location.href='profile.php';
+}
+</script>
+    ";
+?>
+
+
+<html>
+<head>
+    <script src="jquery.js"></script>
+<script>
+    
+
+
+function profile()
+{
+window.location.href="about.html";
+}
+
+function bus()
+{
+window.location.href="bus.html";
+}
+function about(){
+    window.location.href="about.html";
+}
+function contact(){
+    window.location.href="contact.html";
+}
+function support(){
+    window.location.href="services.html";
+}
+
+</script>
+<style>
+#i1{
+position: absolute;
+top:0%;
+left:0%;
+}
+#btn{
+background-color: aqua;
+color: black;
+border-color: aqua;
+border-width: 2px;
+border-radius:15px;
+padding: 10px;
+font-size: 20px;
+font-weight: bold;
+cursor: pointer;
+transition: all 0.3s ease;
+}
+#btn:hover{
+    transform: scale(1.08);
+background-color: pink;
+border-color: pink;
+color: blue;
+}
+#mn{
+    color: black; 
+            font-size:25px; 
+             cursor: pointer; 
+              backdrop-filter: blur(10px);
+            background-color: rgba(255, 255, 255, 0.4); 
+            padding: 2px; 
+            border: 0.1px solid black;
+            border-radius:15px;
+font-family: dubai;
+box-shadow: 1px 3px 6px black;
+transition: all 0.3s ease;
+}
+#mn:hover{
+    transform: scale(1.08);
+    box-shadow: 1px 1px 8px rgb(18, 255, 255);
+}
+.btn{
+    padding: 10px;
+    font-family: calibri;
+    background-color: white;
+    color: red;
+    border: 2.5px solid red;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    font-size: 25px;
+    font-weight: bold;
+    box-shadow: 1px 4px 8px black;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: red;
+    color: white;
+    border-color: white;
+    transform: scale(1.08);
+}
+.lg{
+    background-color: white;
+    height: 240px;
+    width: 240px;
+    border-radius: 15px;
+    box-shadow: 0.5px 1px 12px black;
+    align-content: center;
+}
+.btn1{
+    padding: 7.5px;
+    font-family: calibri;
+    background-color: white;
+    color: red;
+    border: 2.5px solid red;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    font-size: 25px;
+    font-weight: bold;
+    box-shadow: 1px 4px 8px black;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: red;
+    color: white;
+    border-color: white;
+    transform: scale(1.08);
+}
+body{
+    background-color: lightgreen;
+}
+.foot{
+    background-color: black;
+    height: 95px;
+    width: 1017px;
+}
+.ft:hover{
+    text-decoration: underline;
+}
+.ic:hover{
+transform: scale(1.08);
+}
+</style>
+</head>
+<body>
+<div>
+<img src="body.jpg" height=543px; width=1017px; id="i1" style="opacity: 0.9;">
+</div >
+<div>
+<p style="font-family: Freestyle Script; color:white; position: absolute; top:-5%; left: 5%; font-size:52px;" >TicketWise.</p>
+<form method="post">
+<button type="submit" name="ticket" id="mn" style="position:absolute; top:6%; left:48%;">TICKET</button>
+<button type="submit" name="pass" id="mn" style=" position:absolute; top:6%; left:59.1%;">PASSES</button>
+</form>
+<p style="color: black; font-size:25px; position:absolute; top:1%; left:70.5%; cursor: pointer;  backdrop-filter: blur(10px);
+background-color: rgba(255, 255, 255, 0.4); padding: 2px; border-radius:15px;"  onclick="profile()" id="mn">ABOUTus</p>
+
+
+</div>
+<span style="font-family: impact; font-size:70px; color: white; text-shadow: 2.5px 2.5px 3.5px black; position: absolute; top: 39.5%; left: 17%; ">Welcome to TicketWise!</span>
+<span style="font-family: calibri; font-size:30px; color: yellow; font-weight: bold; text-shadow: 3px 3px 4px black; position: absolute; top: 54.5%;  left: 24%;"><center>Your One-Stop Destination for Pune City Bus <br>Tickets and Passes</center></span>
+<button class="btn" onclick="bus()" style="position: absolute; top:72%; left: 41.5%;">Pune City Busses</button>
+<div class="lg" style="position: absolute; top: 150%; left: 10.5%;">
+    <img src="tickl.jpg" height=200px; width=200px; style=" position: relative; left: 8%; top: -8%;">
+    <center><span style="font-family: forte; font-size: 25px; color: black; position: absolute; top: 80%; left: 10%;">Easy-n-fast Tickets</span></center>
+    </div>
+<div class="lg" style="position: absolute; top: 150%; left: 38.5%;">
+    <img src="passl1.jpg" height=175px; width=200px; style=" position: relative; left: 8%;">
+    <br><center><span style="font-family: forte; font-size: 25px; color: black; ">Simplified Passes</span></center>
+    </div>
+<div class="lg" style="position: absolute; top: 150%; left: 66.5%;">
+    <img src="pmtl.jpg" height=190px; width=200px; style=" position: relative; left: 11%; top: -5%;">
+    <center><span style="font-family: forte; font-size: 25px; color: black; position: absolute; top: 80%; left: 10%; ">Secuered Payments</span></center>
+    </div>
+<span style="font-family: calibri; font-size: 30px; color:rgb(194, 131, 38); position: absolute; top: 120%; left: 6.5%; font-weight: bold;"><center>"Empowering Your Journey: Seamless Services Tailored for You! Including <br>Bus Ticket Booking, Pass Reservation, Real-Time Updates & More!"</center></span>
+<img src="digital.png" height=450px; width=450px; style="position: absolute; top: 220%; left: 5%; border-radius: 5px;">
+<span style="font-family: Montserrat; font-size: 38px; color: white; position: absolute; top: 220%; right: 8%;">Digital transformation!</span>
+<span style="font-family: calibri; font-size: 22.5px; color: black; position: absolute; top: 230%; right: 1.5%;">
+    Experience the revolution of ticketing as we <br>seamlessly transition from traditional methods<br> to digital innovation. Say goodbye to long queues<br> and paper tickets, and welcome the ease and<br> convenience of online booking. <br>Our digital transformation streamlines the entire<br>process, allowing you to purchase tickets from <br>the comfort of your home or on the go.<br>With just a few clicks, you can access real-time<br>information, choose your preferred seats, and<br>make secure payments. <br>Join us in embracing the future of ticketing, where<br>efficiency meets accessibility, and every journey <br>begins with simplicity.
+    </span>
+    <div class="foot" style="position: absolute; top: 320%; left: 0%;">
+      <p style="font-family: Freestyle Script; color:white; position: absolute; top:-30%; left: 5%; font-size:52px;" >TicketWise.</p> 
+      <span style="font-family: gill sans; font-size: 25px; color: white; position: absolute; top: 35%; left: 35%; cursor: pointer;" class="ft" onclick="about()">About us</span> 
+      <span style="font-family: gill sans; font-size: 25px; color: white; position: absolute; top: 35%; left: 50%; cursor: pointer;" class="ft" onclick="contact()">Contact</span>
+        <span style="font-family: gill sans; font-size: 25px; color: white; position: absolute; top: 35%; left: 64%; cursor: pointer;" class="ft" onclick="support()">Services</span>
+<a href="https://www.instagram.com/" style="position: absolute; top: 25%; left: 76%; "  class="ic"><img src="insta.png" height=50px; width=50px;></a>
+<a href="https://www.facebook.com/" style="position: absolute; top: 25%; left: 83.3%; "  class="ic"><img src="facebook.png" height=44px; width=44px;></a>
+<a href="https://twitter.com/?lang=en" style="position: absolute; top: 25.5%; left: 90%; " class="ic"><img src="x.png" height=44px; width=44px;></a>
+    </div>
+   
+</body>
+</html>
+

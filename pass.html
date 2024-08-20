@@ -1,0 +1,85 @@
+<html>
+<head>
+<script>
+function home()
+{
+window.location.href="index.html";
+}
+function pass1()
+{
+window.location.href="pass1.html";
+}
+function pass2()
+{
+window.location.href="pass2.html";
+}
+
+</script>
+<style>
+body{
+background: transparent;
+backdrop-filter: blur(7px);
+background-color: lightgreen
+}
+#mn{
+background-color: rgba(255,255,255,1);
+}
+#d1
+{
+background-color: white;
+box-shadow: 1px 5px 8px black;
+height: 200px;
+width: 175px;
+cursor: pointer;
+border-radius: 10px;
+}
+#d1:hover{
+transform: scale(1.07);
+color: red;
+}
+
+</style>
+</head>
+
+<body>
+
+<center>
+<div>
+<p style="font-family: Freestyle Script; color:black; position: absolute; top:-7%; left: 3%; font-size:52px; cursor: pointer;" onclick="home()" >TicketWise.</p>
+<br><br><br><p style=" color: black; font-family: dubai; font-size:40px; 
+ width: 450px; padding: 2px; border-radius:15px; box-shadow: 2px 2px 6px black; padding-left: 10px; padding-right: 10px" id="mn">SELECT YOUR BUS PASS  </p>
+<center><p style="font-size: 22.5px; font-family: Footlight MT; position: absolute; top:30%; left:32%; ">Make your travel hastle free with passes </p></center>
+<br><br><div id="d1" style="position: absolute; left:28%; top:50%" onclick="pass1()">
+<img src="time1.png" height=160px; width=165px; style="position: relative; top: 5.5%; left: -3%;" >
+<p style=" position: absolute; top: 67%; left: 18%; font-size: 25px; font-weight: bold;">Daily Pass</p></div> 
+<div id="d1" style="position: absolute; left:55%; top:50%" onclick="pass2()">
+<img src="time2.png" height=145px; width=150px; style="position: relative; top: 10%; left: -3%;" >
+<p style=" position: absolute; top: 70%; left: 13%; font-size: 23px; font-weight: bold;">Monthly Pass</p></div> 
+</div>
+</div>
+</center>
+</body>
+</html>
+
+<?php
+$con = mysqli_connect("localhost","root","","project");
+$nm = mysqli_query($con,"SELECT name FROM active");
+$name = mysqli_fetch_row($nm);
+$res = mysqli_query($con,"SELECT * FROM p_udetail where name = '$name[0]'");
+
+while( $det = mysqli_fetch_row($res))
+{
+$p = mysqli_query($con,"SELECT * FROM pass WHERE pid=$det[0]");
+$pass =  mysqli_fetch_row($p);
+<center><div style = 'background-color: white; border-radius: 15px; width: 250px; padding: 10px;'>
+<center><span style = 'font-family: calibri; font-size: 15px; font-weight: bold;'>User ID:</span><span style = 'font-family: calibri; font-size: 15px; '>$det[3] </span></center>
+<br><center><span style = 'font-family: calibri; font-size: 15px; font-weight: bold;'> Gender:</span><span style = 'font-family: calibri; font-size: 15px;'>  $det[4]</span> </center>
+<br><center><span style = 'font-family: calibri; font-size: 15px; font-weight: bold;'>Pass:</span><span style = 'font-family: calibri; font-size: 15px;'>
+$pass[3] $pass[1]</span></center>
+<br><center><span style = 'font-family: calibri; font-size: 15px; font-weight: bold;'>Valid:</span><span style = 'font-family: calibri; font-size: 15px;'>
+ $det[2]</span></center>
+</div></center><br><br>
+}
+}
+mysqli_close($con);
+?>

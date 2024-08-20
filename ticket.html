@@ -1,0 +1,113 @@
+<html>
+<head>
+    <style>
+        body{
+            background: url('ticket1.jpg');
+            background-position: center; /* Center the image */
+            background-repeat: no-repeat; /* Do not repeat the image */
+            background-size: cover;
+        
+        }
+        #pd{
+            padding: 15px;
+             border-width: 2px; 
+             border-color: white;
+        }
+        #wrp{
+background: transparent;
+backdrop-filter: blur(7px);
+background-color: rgba(255,255,255,0.2);
+border-width: 10px; 
+border-radius: 10px;
+border-color: black;
+width: 450px;
+height: 445px;
+box-shadow: 1px 1px 3px black;
+padding: 30px;
+}
+.bx{
+    background-color: rgb(255, 255, 255);
+    height: 105px;
+    width: 150px;
+    border-radius: 15px;
+    box-shadow: 1px 2.5px 3px black;
+}
+.bx1{
+    background-color: rgb(255, 29, 29);
+    height: 52.5px;
+    width: 150px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    box-shadow: 0px 1px 1px black;
+    
+}
+.inp{
+  width:145px;
+  height: 35px;
+ border-color: red;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: white;  
+}
+.inp1{
+  width:60px;
+  height: 30px;
+ border-color: red;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: white;  
+}
+.per{
+    padding: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#btn{
+background-color: white;
+color: red;
+border-color: red;
+border-radius: 10px;
+height: 50px;
+width: 120px;
+padding-top: 2px;
+font-size:20px;
+font-family: calibri;
+cursor: pointer;
+}
+#btn:hover{
+background-color: red;
+color: white;
+border-color: white;
+}
+
+</style>
+</head>
+<body>
+ 
+    
+    <br><center><form action="ticket1.php" method="post"><div id="wrp">
+        <span style="font-family: calibri; font-size:25px; color: red; font-weight: bold; background-color: white; padding: 10px; border-radius: 5px;">Tickets</span>
+        <br><br><br><br><div class="bx" style="position: absolute; left: 17%; "><div class="bx1"><span style=" font-family: dubai; padding: 5px; font-size: 30px; color: white; position: relative; top: 10%;">Departure</span></div>
+        <input type="text" class="inp" name="from" required style="position: relative; bottom: -7%;">
+        </div>
+        <div class="bx" style="position: absolute; right: 17%; "><div class="bx1"><span style=" font-family: dubai; padding: 5px; font-size: 30px; color: white; position: relative; top: 10%;">Destination</span></div>
+        <input type="text" class="inp" name="to" required style="position: relative; bottom: -7%;">
+        </div>
+        <br><br><div class="per" style="position: relative; top: 23%;">
+            <span style="font-family: calibri; font-size: 25px; color: black; font-weight: bold;">Passengers</span>
+            <br><br><span style="font-family: calibri; font-size: 20px; color: red;">Adult:</span>
+            <input type="number" name="adult" class="inp1" required>
+            &nbsp&nbsp<span style="font-family: calibri; font-size: 20px; color: red;">Child:</span>
+            <input type="number" name="child" class="inp1" required> 
+        </div>
+        <br><br><div style="position: relative; top: 23%">
+            <input type="submit" id="btn" value="SUBMIT" name="sub">&nbsp&nbsp<input type="reset" value="RESET" id="btn">
+        </div>
+              
+     </div></form>
+
+</body></html>

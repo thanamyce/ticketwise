@@ -1,0 +1,93 @@
+<html>
+<head>
+<style>
+#wrp{
+background: transparent;
+backdrop-filter: blur(7px);
+background-color: rgba(255,255,255,0.2);
+border-width: 10px; 
+border-radius: 10px;
+border-color: black;
+width: 255px;
+height: 305px;
+box-shadow: 1px 1px 3px black;
+padding: 30px;
+}
+#i1{
+position: absolute;
+top:0%;
+left:0%;
+}
+#inp{
+background: transparent;
+backdrop-filter: blur(7px);
+background-color: rgba(255,255,255,1.5);
+border-color:white;
+border-radius: 10px;
+width: 100%;
+height: 35px;
+color: black;
+padding: 10px;
+}
+#btn{
+height: 42px;
+width: 70px;
+background: transparent;
+backdrop-filter: blur(7px);
+background-color: background-color: rgba(255,255,255,0.4);
+border-width: 2px;
+border-color: black;
+font-size:20px;
+color: black;
+border-radius:5px;
+box-shadow: 0px 1px 0px black;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+
+
+</style>
+</head>
+<body style="background-image:url("buss.jpg");">
+<img src="log.jpg" height=540.4px; width=1022.8px; id="i1">
+<center><br>
+<br><br><div id="wrp"><form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
+<span style="font-family: Gadugi; color: white; font-size:36px; font-weight: bold; position: relative; top: 0%; text-shadow: 1px 1px 1px black;  " >Login</span>
+<br><br><br><input type="text" name="nm" id="inp" placeholder="Username" required>
+<br><br><br><input type="password" name="pass" id="inp" placeholder="Password" required>
+<br><br><br><input type="submit" name="login" id="btn" style="position: relative; left:-6%; bottom: -10%;" value="Login">  <input type="reset" id="btn" style="position: relative; left:4%; bottom: -10%;" value="Reset ">
+<br><center><p>Do you don't have account? <a href="reg.html">Register</a></p></center>
+</form>  
+
+</div></center>
+</body>
+</html>
+
+<?php
+if(isset($_POST['login']))
+{
+$nm=$_POST['nm'];
+$pass=$_POST['pass'];
+$con=mysqli_connect("localhost","root","","project");
+$res=mysqli_query($con,"SELECT * FROM udetail");
+$f=0;
+while($u=mysqli_fetch_array($res))
+{
+if(($nm=="$u[0]") && ($pass=="$u[4]"))
+{
+$f=1;
+}
+}
+mysqli_close($con);
+if($f==1)
+{
+header('Location:dash.html');
+}
+else
+{
+echo '<script>alert("Invalid username or password");</script>';
+}
+}
+?>
+

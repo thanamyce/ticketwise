@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header{
+            background-color: rgb(245, 24, 24);
+            height: 100px;
+            width: 100px;
+            border-bottom-left-radius: 55px solid white; 
+            border-left: 50px solid transparent;
+            border-top-right-radius: 80px solid ; 
+        }
+        header::before{
+  position: absolute;
+  content: "";
+  top: 0;
+  right: 65%;
+  left: -30px;
+  width: 30px;
+  height: 100px;
+  background-color: red;
+  box-shadow: 15px 0 0 0 red;
+  border-top-right-radius: 50%;
+}
+header::after{
+  position: absolute;
+  content: "";
+  top: 1;
+  left: 62%;
+  right: -30px;
+  width: 30px;
+  height: 100px;
+  background-color: red;
+  box-shadow: 15px 0 0 0 rgb(108, 8, 8);
+  border-top-left-radius: 150%;
+}
+        </style>
+</head>
+<body>
+    <center><header>login</header></center>
+    
+</body>
+</html>

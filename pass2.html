@@ -1,0 +1,139 @@
+<html>
+<head>
+<style>
+#wrp{
+background: transparent;
+backdrop-filter: blur(7px);
+background-color: rgba(255,255,255,0.2);
+border-width: 10px; 
+border-radius: 10px;
+border-color: black;
+width: 355px;
+height:425px;
+box-shadow: 1px 1px 3px black;
+padding: 30px;
+}
+#inp{
+background: transparent;
+backdrop-filter: blur(7px);
+background-color: rgba(255,255,255,1.5);
+border-color:white;
+border-radius: 10px;
+width: 85%;
+height: 35px;
+color: black;
+padding: 10px;
+}
+#inp1{
+background: transparent;
+backdrop-filter: blur(7px);
+background-color: rgba(255,255,255,1.5);
+border-color:white;
+border-radius: 10px;
+width: 70;
+height: 35px;
+color: black;
+padding: 10px;
+}
+body{
+background: url('mpass.jpg');
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover;
+}
+#tt{
+backdrop-filter: blur(10px);
+background-color: rgba(255,255,255,1);
+}
+#sel
+{
+background: transparent;
+backdrop-filter: blur(7px);
+background-color: rgba(255,255,255,1.5);
+padding: 5px;
+font-size: 15px;
+border-radius: 10px;
+}
+#btn{
+background-color: white;
+color: red;
+border-color: red;
+border-radius: 10px;
+height: 50px;
+width: 120px;
+padding-top: 2px;
+font-size:20px;
+font-family: calibri;
+cursor: pointer;
+}
+#btn:hover{
+background-color: red;
+color: white;
+border-color: white;
+}
+#btn1{
+background-color: red;
+color: white;
+border-color: white;
+border-radius: 10px;
+height: 50px;
+width: 120px;
+padding-top: 2px;
+font-size:20px;
+font-family: calibri;
+cursor: pointer;
+
+}
+#btn1:hover{
+background-color: white;
+color: red;
+border-color: red;
+}
+
+</style>
+<script src="jquery.js"></script>
+<script>
+    $(document).ready(function(){
+         $("#sel").change(function(){
+            var sel = document.getElementById('sel').value; 
+            if((sel=="Student Monthly Pass 750/-") || (sel=="Student Annual Pass 5000/-") || (sel=="Student Half-yearly Pass 3000/-") || (sel=="Student quarterly Pass 2000/-"))
+        {
+           $("#uno1").empty(); 
+            $("#uno1").append("<input type='Number' name='un' id='inp' placeholder='Enter School/college Registration No:' required>");
+
+        }
+        else
+        {
+            $("#uno1").empty(); 
+            $("#uno1").append("<input type='Number' name='un' id='inp' placeholder='Enter Adhar No:' required>");
+        }
+        });
+    });
+</script>
+</head>
+<body>
+<br><center><div id="wrp">
+      <center><p style=" font-family: Freestyle Script; color:black; font-size:60px; position: absolute; top: -10%; left: 28%; ">TicketWise.</p></center>
+      <center><span style="font-family: Century Schoolbook; font-size:25px;  color: red; border-radius: 7px; padding: 5px; position: absolute; top: 21%; left: 30%;" id="tt">Monthly Pass</span></center> 
+      <br><br><br><br><br><br><br><br>
+      <form action="pass22.php" method="post" enctype="multipart/form-data"  >
+       <input type="text" name="fnm" placeholder="Enter Full Name:" id="inp" required>
+       <br><br><span style="font-size: 25px; color:red; font-family: calibri;">Select Pass: </span>
+       <br><select name="pass" id="sel">
+        <option value="Passenger Monthly Pass 900/-">Passenger Monthly Pass 900/-</option>
+        <option value="Passenger Monthly Pass 1200/-">Passenger Monthly Pass 1200/-</option>
+        <option value="Passenger Monthly Pass 2700/-">Passenger Monthly Pass 2700/-</option>
+        <option value="Senior Monthly Pass 500/-">Senior Monthly Pass 500/-</option>
+        <option value="Student Monthly Pass 750/-">Student Monthly Pass 750/-</option>
+        <option value="Student Annual Pass 5000/-">Student Annual Pass 5000/-</option>
+        <option value="Student Half-yearly Pass 3000/-">Student Half-yearly Pass 3000/-</option>
+        <option value="Student Quarterly Pass 2000/-">Student Quarterly Pass 2000/-</option>
+        </select> 
+        <br><br><div id="uno1"></div>
+        <br><span style="font-size: 25px; color:red; font-family: calibri; position: absolute; left: 12%;">Upload photo: </span>
+        <input type="file" name="image" style="position: absolute; left: 49%; padding: 8px; border-radius: 10px;" required>
+        <br><br><br><input type="submit" name="sub" value="SUBMIT" id="btn"> <input type="reset" id="btn" value="RESET">
+    </form>
+</div></center>
+</body>
+</html>
